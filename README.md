@@ -1,4 +1,4 @@
-# Task 1 :- Investing Startegy
+# Task :- Stock Market Data Analysis and Trading Strategy Implementation
 Utilized Python along with PostgreSQL/MySQL to create a database for storing and analyzing stock market data. 
 Implemented a trading strategy, primarily focusing on simple moving average crossover, to devise investment decisions based on historical stock data.
 
